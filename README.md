@@ -15,9 +15,13 @@ On the other hand, there are a lot of interactions user-computer that require a 
 
 ## Getting Started
 
+```
 Install Python 3 or greater compatible with dlib and Tensorflow
+```
 Install dlib
+```
 Install Tensorflow
+```
 Install keras
 ```
 pip install imutils
