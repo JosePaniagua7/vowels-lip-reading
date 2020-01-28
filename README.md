@@ -31,8 +31,8 @@ cd ./client
 ```
 python vowels_prediction
 ```
-![AI Gif](https://drive.google.com/file/d/1gk9uBVqtx2YZx-hdev3PVCX0ORJpvNUY/preview)
-![AI Gif](https://i.imgur.com/dQKuYvg.gifv)
+![AI Gif](person_one.gif)
+![AI Gif](person_two.gif)
 
 ## Built With help of
 
