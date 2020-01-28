@@ -16,15 +16,11 @@ On the other hand, there are a lot of interactions user-computer that require a 
 ## Getting Started
 
 ```
-Install Python 3 or greater compatible with dlib and Tensorflow
-```
-Install dlib
-```
-Install Tensorflow
-```
-Install keras
-```
-pip install imutils
+-Install Python 3 or greater compatible with dlib and Tensorflow
+-Install dlib
+-Install Tensorflow
+-Install keras
+-pip install imutils
 ```
 
 
@@ -35,7 +31,7 @@ cd ./client
 ```
 python vowels_prediction
 ```
-![AI Gif](https://i.imgur.com/jzc90l4.gifv)
+![AI Gif](https://drive.google.com/file/d/1gk9uBVqtx2YZx-hdev3PVCX0ORJpvNUY/view)
 ![AI Gif](https://i.imgur.com/dQKuYvg.gifv)
 
 ## Built With help of
